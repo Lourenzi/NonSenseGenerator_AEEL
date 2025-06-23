@@ -63,9 +63,6 @@ public class NonSenseGeneratorApplicationTests {
 
     @Test
     public void shouldGenerateSyntaxTree() throws Exception {
-        // Setup test credentials
-        Path credentialsPath = Path.of("src/main/resources/credentials.json");
-        Files.writeString(credentialsPath, "test-key");
 
         // Prepare request
         HttpHeaders headers = new HttpHeaders();
