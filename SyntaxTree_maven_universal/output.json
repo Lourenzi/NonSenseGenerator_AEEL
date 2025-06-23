@@ -1,0 +1,42 @@
+[
+  {
+    "pos": "DET",
+    "content": "The",
+    "headTokenIndex": 1
+  },
+  {
+    "pos": "NOUN",
+    "content": "ghfjdhfjsd",
+    "headTokenIndex": 3
+  },
+  {
+    "pos": "VERB",
+    "content": "was",
+    "headTokenIndex": 3
+  },
+  {
+    "pos": "VERB",
+    "content": "dsafdsffds",
+    "headTokenIndex": 3
+  },
+  {
+    "pos": "DET",
+    "content": "some",
+    "headTokenIndex": 5
+  },
+  {
+    "pos": "NOUN",
+    "content": "fruit",
+    "headTokenIndex": 3
+  },
+  {
+    "pos": "ADP",
+    "content": "while",
+    "headTokenIndex": 7
+  },
+  {
+    "pos": "VERB",
+    "content": "dancing",
+    "headTokenIndex": 3
+  }
+]
